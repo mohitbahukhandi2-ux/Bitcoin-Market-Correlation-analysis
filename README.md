@@ -57,6 +57,3 @@ pip install -r requirements.txt
 
 `pandas`, `numpy`, `yfinance`, `plotly`, `scipy`, `jupyter`, and `pathlib`.
 
-## Attribution
-
-This work was completed as a group project. The original group repository is [AymaneAshrk/crypto_msc_dab](https://github.com/AymaneAshrk/crypto_msc_dab). This repository preserves the project files for the contributor account.
