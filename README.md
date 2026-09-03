@@ -23,11 +23,7 @@ This group project explores the changing relationships between Bitcoin and tradi
 ├── OUTPUTS/
 │   ├── CSV/Merged_df.csv
 │   └── HTML/
-│       ├── 1_correlation_matrix.html
-│       ├── 2_btc_spx_rolling_corr_dynamic.html
-│       ├── 3_btc_dominance_price_animated.html
-│       ├── 4_regression_btc_sp500_animated.html
-│       └── 5_regression_btc_gold_animated.html
+│       └── interactive-visualizations.zip
 └── requirements.txt
 ```
 
