@@ -46,7 +46,7 @@ pip install -r requirements.txt
 1. Ensure the CSV files are in `DATASETS/`.
 2. Start Jupyter with `jupyter notebook FINAL.ipynb`.
 3. Run all notebook cells.
-4. Open the generated interactive charts in `OUTPUTS/HTML/`.
+4. Download and extract `OUTPUTS/HTML/interactive-visualizations.zip` to open the interactive charts.
 
 ## Data sources
 
